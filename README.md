@@ -6,4 +6,5 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Continuous Monitoring and Tracing
 - Cloud Computing
 - Model Training at Scale
+- CI/CD
 
