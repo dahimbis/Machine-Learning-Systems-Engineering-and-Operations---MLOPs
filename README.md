@@ -9,4 +9,5 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - CI/CD
 - Safeguarding ML systems
 - Agents and Model Context Protocol (MCP)
+- Challenges and basic principles of ML systems
 
