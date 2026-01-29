@@ -6,7 +6,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Continuous Monitoring and Tracing
 - Cloud Computing
 - Model Training at Scale
-- CI/CD
+- CI/CD (Continuous Integration/Continuous Delivery/Deployment) 
 - Safeguarding ML systems
 - Agents and Model Context Protocol (MCP)
 - Challenges and basic principles of ML systems
