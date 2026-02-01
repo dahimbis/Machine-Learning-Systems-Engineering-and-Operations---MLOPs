@@ -18,6 +18,10 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Google Cloud Computing
 - PySpark
 
+## Tools 
+- Jupyter Notebook
+- Linux Terminal
+
 
 @Instuctor - Fund Fraida
   
