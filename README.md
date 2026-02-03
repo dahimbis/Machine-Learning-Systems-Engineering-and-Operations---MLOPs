@@ -12,11 +12,13 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Challenges and basic principles of ML systems
 - DevOps
 
-## Cloud Computing Service Used
+## Cloud Computing Service Providers
 - Chameleon
 - Amazon Web Services (AWS)
 - Google Cloud Computing
-- PySpark
+- Microsoft Azure
+- Snowflake
+- Oracle Cloud
 
 ## Tools 
 - Jupyter Notebook
