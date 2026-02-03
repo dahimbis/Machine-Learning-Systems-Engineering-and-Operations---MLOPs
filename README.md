@@ -29,8 +29,9 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - PaaS - Platform as a Service
 - FaaS - Function as a Service
 - SaaS - Software as a Service
+- AaaS - Anything as a Service
   
-Cloud services mainly include compute power, network and storage 
+Cloud services mainly include compute power, network, and storage 
 
 @Instuctor - Fund Fraida
   
