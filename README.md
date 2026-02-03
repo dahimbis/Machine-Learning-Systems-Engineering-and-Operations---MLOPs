@@ -30,7 +30,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - FaaS - Function as a Service
 - SaaS - Software as a Service
   
-
+Cloud services mainly include compute power, network and storage 
 
 @Instuctor - Fund Fraida
   
