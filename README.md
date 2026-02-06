@@ -35,6 +35,9 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 
 ## Lessons Learned
 Deploying a Kubernetes cluster on Chameleon instances
+- Model Deployment
+- Life Cycle Management
+- CI/CD Pipelines
   
 Cloud services mainly include compute, network, databases, and storage
 
