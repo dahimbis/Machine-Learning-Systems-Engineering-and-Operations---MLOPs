@@ -38,7 +38,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Model Deployment
 - Life Cycle Management
 - CI/CD Pipelines
-- Experiment Tracking
+- Experiment Tracking and Monitoring
 - Cloud Platforms
 - Containerization
   
