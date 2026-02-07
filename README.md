@@ -41,6 +41,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Experiment Tracking and Monitoring
 - Cloud Platforms
 - Containerization
+- Installation of Docker, Kubernetes,
   
 Cloud services mainly include compute, network, databases, and storage
 
