@@ -1,16 +1,16 @@
-# Machine Learning Systems Engineering and Operations (MLOPs)
-Building deployable, reliable, and scalable machine learning systems involves a lot more than just training a model. 
+# Machine Learning Systems Engineering and Operations (MLOps)
+Building deployable, reliable, and scalable machine learning systems involves a lot more than just training a model.
 
 ## Topics Covered
-- Large Data Systems
-- Continuous Monitoring and Tracing
-- Cloud Computing
-- Model Training at Scale
-- CI/CD (Continuous Integration/Continuous Delivery/Deployment) 
-- Safeguarding ML systems
-- AI Agents and Model Context Protocol (MCP)
 - Challenges and basic principles of ML systems
+- Large Data Systems
+- Model Training at Scale
+- Continuous Monitoring and Tracing
+- CI/CD (Continuous Integration/Continuous Delivery/Deployment)
+- Safeguarding ML systems
+- Cloud Computing
 - DevOps
+- AI Agents and Model Context Protocol (MCP)
 
 ## Cloud Computing Service Providers
 - Chameleon
@@ -20,36 +20,32 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Snowflake
 - Oracle Cloud
 
-## Tools 
+## Main Cloud Computing Models
+- **IaaS** - Infrastructure as a Service
+- **CaaS** - Container as a Service
+- **PaaS** - Platform as a Service
+- **FaaS** - Function as a Service
+- **SaaS** - Software as a Service
+- **AaaS** - Anything as a Service
+
+**Core Cloud Services:** Compute, Network, Databases, and Storage
+
+## Tools & Technologies
 - Jupyter Notebook
 - Linux Terminal
-- Cloud Computing
+- Docker
+- Kubernetes
+- Cloud Computing Platforms
 
-## Main Cloud Computing Models
-- IaaS - Infrastructure as a Service
-- CaaS - Container as a Service
-- PaaS - Platform as a Service
-- FaaS - Function as a Service
-- SaaS - Software as a Service
-- AaaS - Anything as a Service
-
-## Lessons Learned
+## Key Skills & Lessons Learned
 - Deploying a Kubernetes cluster on Chameleon instances
-- Model Deployment
-- Life Cycle Management
+- Model Deployment and Life Cycle Management
 - CI/CD Pipelines
 - Experiment Tracking and Monitoring
-- Cloud Platforms
-- Containerization
-- Installation of Docker, Kubernetes,
-  
-Cloud services mainly include compute, network, databases, and storage
+- Containerization (Docker, Kubernetes installation)
+- Cloud Platform Configuration
+  - Network and Network Groups
+  - Lease and Reservation
+  - VM Instances Creation
 
-##Configurations
-Network and Network Groups
-Lease and Reservation
-VM Instances Creation
-
-@Instuctor - Fund Fraida
-  
-
+**Instructor:** Fund Fraida
