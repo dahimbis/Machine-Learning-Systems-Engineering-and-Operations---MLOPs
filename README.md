@@ -45,6 +45,10 @@ Building deployable, reliable, and scalable machine learning systems involves a 
   
 Cloud services mainly include compute, network, databases, and storage
 
+##Configurations
+Network and Network Groups
+Lease and Reservation
+VM Instances Creation
 
 @Instuctor - Fund Fraida
   
