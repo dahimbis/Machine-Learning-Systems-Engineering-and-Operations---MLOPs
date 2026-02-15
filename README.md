@@ -52,6 +52,8 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Version Control
 - IaC/CaC - Infrastructure as Code/Configuration as Code
 - CI/CD - Continuous Integration / Continuous Development
-- Monitoring and Logging 
+- Monitoring and Logging
+
+We also have Code as an Infrastructure, as well as configuration as a service
 
 **Instructor:** Fund Fraida
