@@ -11,6 +11,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Cloud Computing
 - DevOps
 - AI Agents and Model Context Protocol (MCP)
+- Data, Training and Serving
 
 ## Cloud Computing Service Providers
 - Chameleon
