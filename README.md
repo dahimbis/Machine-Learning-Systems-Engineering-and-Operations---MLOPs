@@ -62,7 +62,7 @@ Types of Data
 - Structure
 - Unstructured
 
-##Acquiring training data
+## Acquiring training data
 -Source training
 - Legal and ethical obligations
 - Matching Business Context
