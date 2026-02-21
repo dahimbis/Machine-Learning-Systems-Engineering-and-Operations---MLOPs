@@ -69,7 +69,7 @@ Types of Data
 - Fairness and Bias
 
 Sources of Data
-- Synthetic Data
+- Synthetic Data Source
 - Internal source
 - External source
 
