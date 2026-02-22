@@ -64,7 +64,7 @@ Types of Data
 - Unstructured
 
 ## Acquiring training data
--Source training
+- Source training
 - Legal and ethical obligations
 - Matching Business Context
 - Fairness and Bias
