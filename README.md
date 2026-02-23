@@ -13,6 +13,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - AI Agents and Model Context Protocol (MCP)
 - Data, Training, and Serving
 - MFLOW VS AIRFLOW
+- Use PostgreSQL to store core application state for users, images, comments, and flags.
 
 ## Cloud Computing Service Providers
 - Chameleon
