@@ -4,7 +4,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 ## Topics Covered
 - Challenges and basic principles of ML systems
 - Large Data Systems
-- Model Training at Scale
+- Model Training at Scale -GPUs
 - Continuous Monitoring and Tracing
 - CI/CD (Continuous Integration/Continuous Delivery/Deployment)
 - Safeguarding ML systems
@@ -69,9 +69,13 @@ Types of Data
 - Matching Business Context
 - Fairness and Bias
 
-Sources of Data
+## Sources of Data
 - Synthetic Data Source
 - Internal source
 - External source
 
+## Large Model Training 
+Backpropagation - neural networks use backpropagation as a computational graph with one input, one hidden unit, and no bias
+
+Forward Pass and Backward Pass
 **Instructor:** Fund Fraida
