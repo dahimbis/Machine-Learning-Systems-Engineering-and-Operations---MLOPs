@@ -78,6 +78,11 @@ Types of Data
 * Use Redpanda, Redis, and Iceberg alongside PostgreSQL for real-time features and durable training data
 * Train models incrementally with partial_fit and track exact data snapshots using Iceberg snapshot_id
 
+## weekly labs
+- Data
+- Large Scale Training
+
+
 ## Large Model Training 
 Backpropagation - neural networks use backpropagation as a computational graph with one input, one hidden unit, and no bias
 
