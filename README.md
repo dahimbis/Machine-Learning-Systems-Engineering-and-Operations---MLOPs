@@ -84,7 +84,21 @@ Types of Data
 
 
 ## Large Model Training 
-Backpropagation - neural networks use backpropagation as a computational graph with one input, one hidden unit, and no bias
+Backpropagation - neural networks use backpropagation as a computational graph with one input, one hidden unit, and no bias. Forward Pass and Backward Pass
 
-Forward Pass and Backward Pass
+## Training MLs at scale
+- Test for training code
+- Experiment tracking
+- Scheduling and Resource Allocation
+- Hyperparameter tuning
+- Monitoring, faulty tolerance, and recovery
+- Resource Sizing and Cost Control
+
+## Test Types
+- unit test
+- failure mode tests
+- Canary training tests
+
+
+
 **Instructor:** Fund Fraida
