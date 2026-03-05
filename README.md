@@ -99,6 +99,18 @@ Backpropagation - neural networks use backpropagation as a computational graph w
 - failure mode tests
 - Canary training tests
 
+## What to track
+Parameters (Hyperparameters) -> metrics, artifacts, intent
+
+## Scheduling Jobs
+-FIFO -First In First Out
+- Backfill scheduling
+- Fairshare scheduling
+- Prememption Scheduling
+- Time-slicing scheduling
+- Gange Scheduling
+- 
+
 
 
 **Instructor:** Fund Fraida
