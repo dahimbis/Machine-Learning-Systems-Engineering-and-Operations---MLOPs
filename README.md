@@ -103,13 +103,13 @@ Backpropagation - neural networks use backpropagation as a computational graph w
 Parameters (Hyperparameters) -> metrics, artifacts, intent
 
 ## Scheduling Jobs
--FIFO -First In First Out
+- FIFO (First In First Out)
 - Backfill scheduling
 - Fairshare scheduling
 - Prememption Scheduling
 - Time-slicing scheduling
 - Gange Scheduling
-- 
+
 
 
 
