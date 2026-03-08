@@ -14,6 +14,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Data, Training, and Serving
 - MFLOW VS AIRFLOW
 - Use PostgreSQL to store core application state for users, images, comments, and flags.
+- MLFlow (for experiment tracking) and Ray (for orchestration and resource management)
 
 ## Cloud Computing Service Providers
 - Chameleon
