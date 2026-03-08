@@ -112,6 +112,11 @@ Parameters (Hyperparameters) -> metrics, artifacts, intent
 - Gange Scheduling
 
 
-
+## Lessons Learned - Training at Scale
+- Ray schedules jobs based on available resources.
+- Jobs with infeasible resource requests remain pending.
+- Distributed workers can reduce training time.
+- Fractional GPUs allow multiple jobs to share a GPU.
+- Ray restarts jobs automatically after worker failure.
 
 **Instructor:** Fund Fraida
