@@ -119,7 +119,7 @@ Parameters (Hyperparameters) -> metrics, artifacts, intent
 - Fractional GPUs allow multiple jobs to share a GPU.
 - Ray restarts jobs automatically after worker failure.
 
-##Model Serving
+## Model Serving
 Balancing fast, good, and cheap inference
 
 3 things you can control-> model, system, and infrastructure elements
