@@ -15,6 +15,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - MFLOW VS AIRFLOW
 - Use PostgreSQL to store core application state for users, images, comments, and flags.
 - MLFlow (for experiment tracking) and Ray (for orchestration and resource management)
+- A/B Testing
 
 ## Cloud Computing Service Providers
 - Chameleon
@@ -40,6 +41,7 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Docker
 - Kubernetes
 - Cloud Computing Platforms
+- Kafka
 
 ## Key Skills & Lessons Learned
 - Deploying a Kubernetes cluster on Chameleon instances
