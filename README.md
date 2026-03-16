@@ -16,6 +16,9 @@ Building deployable, reliable, and scalable machine learning systems involves a 
 - Use PostgreSQL to store core application state for users, images, comments, and flags.
 - MLFlow (for experiment tracking) and Ray (for orchestration and resource management)
 - A/B Testing
+- graph optimizations
+- quantization
+- hardware-specific execution providers, which switch out generic implementations of operations in the graph for hardware-specific optimized implementations
 
 ## Cloud Computing Service Providers
 - Chameleon
