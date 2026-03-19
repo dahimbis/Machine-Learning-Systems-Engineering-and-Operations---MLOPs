@@ -87,6 +87,7 @@ Types of Data
 ## weekly labs
 - Data
 - Large Scale Training
+- serving 
 
 
 ## Large Model Training 
